@@ -92,7 +92,7 @@ To quickly enable searching inside library code in any Maven project:
 
     * Press **Shift** twice to open the "Search Everywhere" dialog, then type any class or method name to jump into the decompiled code.
 
-## Troubleshooting## Troubleshooting
+## Troubleshooting
 
 * **Missing dependencies**: Run `mvn dependency:resolve` first to populate your local repo.
 
